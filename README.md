@@ -1,1 +1,1 @@
-# Regresi-n-Lineal-Simple
+# Regresion-Lineal-Simple
